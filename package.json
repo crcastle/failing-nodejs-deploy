@@ -1,0 +1,13 @@
+{
+  "name": "failing-nodejs-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node successful-build.js",
+    "start": "node failing-process.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
